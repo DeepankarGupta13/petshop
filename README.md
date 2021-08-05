@@ -111,7 +111,7 @@ page.
 For customers who wish to buy supplies and necessities for their pets, the pet
 supplies options give them access to a wide varieties of supplies from food to
 beds. The costumers can view and choose the supplies best suited for their pets
-and can use the cash on delivery option to pay for these supplies.
- page of clothes in pet supplies.
+and can use the cash on delivery option to pay for these supplies. page of clothes in pet supplies.
+ 
 ![image](https://user-images.githubusercontent.com/86234577/128296858-b0464652-27df-4b42-9db6-4477dfd36d61.png)
 
